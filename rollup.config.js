@@ -38,7 +38,7 @@ function camelize(str) {
 
 const baseConfig = {
   output  : {
-    format   : 'umd',
+    format   : 'es',
     sourcemap: true,
     interop  : false,
     banner   : banner,
